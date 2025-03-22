@@ -1,0 +1,9 @@
+{
+  "sheetname": "Weapons - Infernal Ikebukuro",
+  "headers": {
+    "0x00": "Item"
+  },
+  "types": {
+    "0x00": "uint16"
+  }
+}

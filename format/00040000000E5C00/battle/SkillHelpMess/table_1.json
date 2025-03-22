@@ -1,0 +1,8 @@
+{
+  "sheetname": "table_1",
+  "headers": {},
+  "types": {
+    "0x00": "uint16",
+    "0x02": "string_0x64"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "sheetname": "table_0",
+  "headers": {},
+  "types": {
+    "0x02": "string_0x1e",
+    "0x20": "string_0x10",
+    "0x30": "string_0x10",
+    "0x40": "string_0x20",
+    "0x68": "string_0x1e"
+  }
+}

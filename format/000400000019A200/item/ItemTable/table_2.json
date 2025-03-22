@@ -1,0 +1,14 @@
+{
+  "sheetname": "table_2",
+  "headers": {
+    "0x20": "ID",
+    "0x74": "Buy",
+    "0x78": "Sell"
+  },
+  "types": {
+    "0x00": "string_0x20",
+    "0x20": "uint16",
+    "0x74": "uint32",
+    "0x78": "uint32"
+  }
+}

@@ -1,0 +1,500 @@
+1,Agi
+2,Agilao
+3,Agidyne
+4,Maragi
+5,Maragion
+6,Maragidyne
+7,Fire Breath
+8,Trisagion
+9,Ragnarok
+10,Bufu
+11,Bufula
+12,Bufudyne
+13,Mabufu
+14,Mabufula
+15,Mabufudyne
+16,Ice Breath
+17,Glacial Blast
+18,Cold World
+19,Zio
+20,Zionga
+21,Ziodyne
+22,Mazio
+23,Mazionga
+24,Maziodyne
+25,Shock
+26,Thunder Reign
+27,Charming Bolt
+28,Zan
+29,Zanma
+30,Zandyne
+31,Mazan
+32,Mazanma
+33,Mazandyne
+34,Wind Breath
+35,Deadly Wind
+36,Floral Gust
+37,Megido
+38,Megidola
+39,Megidolaon
+40,Great Logos
+41,Antichthon
+42,Babylon Goblet
+43,Holy Wrath
+44,Judgement
+45,Sea of Chaos
+46,Life Drain
+47,Spirit Drain
+48,Energy Drain
+49,Mudo
+50,Mudoon
+51,Mamudo
+52,Mamudoon
+53,Die For Me!
+54,Hama
+55,Hamaon
+56,Mahama
+57,Mahamaon
+58,Judgement Light
+59,Dormina
+60,Lullaby
+61,Poisma
+62,Poison Breath
+63,Shibaboo
+64,Bind Voice
+65,Pulinpa
+66,Panic Voice
+67,Cough
+68,Pandemic Bomb
+69,NONE
+70,Shivering Taboo
+71,NONE
+72,NONE
+73,NONE
+74,NONE
+75,NONE
+76,Breath
+77,Death's Door
+78,Makakaja
+79,Marin Karin
+80,Sexy Dance
+81,Dia
+82,Diarama
+83,Diarahan
+84,Media
+85,Mediarama
+86,Mediarahan
+87,Salvation
+88,Patra
+89,Me Patra
+90,Posumudi
+91,Royal Curse
+92,Amrita
+93,Recarm
+94,Samarecarm
+95,Recarmdra
+96,Hell Thrust
+97,Thunder Gods
+98,Ice Age
+99,Makajam
+100,Makajamaon
+101,Tarukaja
+102,Sukukaja
+103,Rakukaja
+104,Luster Candy
+105,Dekaja
+106,Tarunda
+107,Sukunda
+108,Rakunda
+109,Debilitate
+110,Dekunda
+111,Silent Prayer
+112,War Cry
+113,Fog Breath
+114,Acid Breath
+115,Taunt
+116,Critical Eye
+117,Panic Caster
+118,Tetrakarn
+119,Makarakarn
+120,Tetraja
+121,Charge
+122,Concentrate
+123,Blood Ritual
+124,Sabbatma
+125,Invitation
+126,Judgment Strike
+127,Bad Company
+128,NONE
+129,NONE
+130,NONE
+131,NONE
+132,Smile Charge
+133,Magaon
+134,Heavenly Punishment
+135,Irrational Glimmer
+136,Evil-crushing Flash
+137,Trafuri
+138,Doping
+139,Revelation
+140,Estoma Sword
+141,NONE
+142,NONE
+143,NONE
+144,NONE
+145,Forfeit
+146,Nightmare
+147,Bind
+148,Eternal Rest
+149,Frenzied Chomp
+150,Eat Whole
+151,Lunge
+152,Oni-Kagura
+153,Mortal Jihad
+154,Critical Wave
+155,Megaton Press
+156,Titanomachia
+157,Gram Slice
+158,Fatal Sword
+159,Berserker God
+160,Heat Wave
+161,Javelin Rain
+162,Hades Blast
+163,Bouncing Claw
+164,Damascus Claw
+165,Nihil Claw
+166,Scratch Dance
+167,Axel Claw
+168,Madness Nails
+169,Fang Breaker
+170,Dream Fist
+171,Purple Smoke
+172,NONE
+173,Mist Rush
+174,Tetanus Cut
+175,Dark Sword
+176,Blight
+177,Occult Flash
+178,Binding Claw
+179,Poison Claw
+180,Iron Judgement
+181,Needle Shot
+182,Tathlum Shot
+183,Grand Tack
+184,Riot Gun
+185,Rapid Needle
+186,Blast Arrow
+187,Heaven's Bow
+188,Dream Needle
+189,Toxic Sting
+190,Stun Needle
+191,Madness Needle
+192,Stun Needles
+193,Myriad Arrows
+194,Desperate Hit
+195,NONE
+196,NONE
+197,Head Crush
+198,Power Punch
+199,Earthquake
+200,NONE
+201,NONE
+202,NONE
+203,NONE
+204,NONE
+205,NONE
+206,NONE
+207,NONE
+208,Will of Flame
+209,Will of Frost
+210,Will of Thunder
+211,Will of Wind
+212,NONE
+213,Imposing Stance
+214,NONE
+215,Gungnir
+216,NONE
+217,NONE
+218,NONE
+219,NONE
+220,NONE
+221,NONE
+222,NONE
+223,NONE
+224,NONE
+225,NONE
+226,NONE
+227,NONE
+228,NONE
+229,NONE
+230,NONE
+231,NONE
+232,Enduring Cheer
+233,Warding Shout
+234,NONE
+235,NONE
+236,Enlightenment
+237,5.67 Billion Hands
+238,Venomous Raga
+239,Dream Raga
+240,NONE
+241,NONE
+242,Infernal Hail
+243,Needlestorm
+244,NONE
+245,NONE
+246,NONE
+247,Hellish Brand
+248,NONE
+249,NONE
+250,King Bufula
+251,NONE
+252,NONE
+253,Adaptive Tactics
+254,Alluring Banter
+255,Dazzle Ray
+256,Growing Hate
+257,Fear Darkness
+258,Zenki's Axe
+259,Goki's Water Wall
+260,Peacock Incantation
+261,Peacock Incantation
+262,Dark Photon
+263,Blank Bullet
+264,Black Body Radiation
+265,Evil Shine
+266,NONE
+267,NONE
+268,Chariot
+269,NONE
+270,NONE
+271,Singularity Lightning
+272,Singularity Vortex
+273,Energy Compression
+274,Execute Code
+275,Crack Code
+276,Combat Tara
+277,NONE
+278,NONE
+279,NONE
+280,NONE
+281,NONE
+282,NONE
+283,NONE
+284,NONE
+285,NONE
+286,NONE
+287,NONE
+288,NONE
+289,NONE
+290,NONE
+291,NONE
+292,NONE
+293,NONE
+294,Dark Grudge
+295,NONE
+296,NONE
+297,NONE
+298,NONE
+299,NONE
+300,NONE
+301,Kannuki-Throw
+302,Lightning of God
+303,Tetracoerce
+304,Stigmata Strike
+305,Serpent of Sheol
+306,Tornado of God
+307,Lamentation
+308,Hailstorm of God
+309,Makaracoerce
+310,Archangel's Law
+311,Fallen Grace
+312,Inferno of God
+313,Plasma Discharge
+314,Megidoplasma
+315,Refrigerate
+316,Star Tarantella
+317,NONE
+318,NONE
+319,NONE
+320,Curse Thy Enemy
+321,Guardian's Eye
+322,Snake's Fangs
+323,Damnation
+324,Stigmatic Gleam
+325,Spirit Focus
+326,Gaea Rage
+327,Deadly Fury
+328,Dark Energy
+329,Move Slowly
+330,Aim Carefully
+331,Clench Fist
+332,Prayer
+333,Raging Hellfire
+334,Raging Blizzard
+335,Raging Lightning
+336,Raging Tempest
+337,Fire of Sinai
+338,NONE
+339,NONE
+340,NONE
+341,NONE
+342,NONE
+343,NONE
+344,NONE
+345,Soul Drain
+346,Blink of Death
+347,Fire of Lethargy
+348,Light Devourer
+349,NONE
+350,NONE
+351,True Ziodyne
+352,True Zandyne
+353,Magic Torrent
+354,Vengeful Thunder
+355,NONE
+356,Wave Function
+357,Pair Production
+358,Particle Annihilation
+359,NONE
+360,Rending Claws
+361,Severe Judgement
+362,Megiddo Ark
+363,Akasha Arts
+364,NONE
+365,NONE
+366,NONE
+367,NONE
+368,NONE
+369,NONE
+370,NONE
+371,NONE
+372,NONE
+373,NONE
+374,NONE
+375,NONE
+376,NONE
+377,Loyalty Slash
+378,Dance of Mara
+379,NONE
+380,NONE
+381,NONE
+382,NONE
+383,NONE
+384,NONE
+385,NONE
+386,NONE
+387,NONE
+388,NONE
+389,NONE
+390,NONE
+391,Haunting Rhapsody
+392,Andalusia
+393,God's Bow
+394,Blade of Terror
+395,Ruinous Brand
+396,Soul Divide
+397,NONE
+398,Pestilence
+399,Evil Melody
+400,Death Lust
+401,Resist Phys
+402,Null Phys
+403,Repel Phys
+404,Drain Phys
+405,Resist Gun
+406,Null Gun
+407,Repel Gun
+408,Drain Gun
+409,Resist Fire
+410,Null Fire
+411,Repel Fire
+412,Drain Fire
+413,Resist Ice
+414,Null Ice
+415,Repel Ice
+416,Drain Ice
+417,Resist Elec
+418,Null Elec
+419,Repel Elec
+420,Drain Elec
+421,Resist Force
+422,Null Force
+423,Repel Force
+424,Drain Force
+425,Resist Dark
+426,Null Dark
+427,Resist Light
+428,Null Light
+429,Null Mind
+430,Null Nerve
+431,Phys Pleroma
+432,High Phys Pleroma
+433,Gun Pleroma
+434,High Gun Pleroma
+435,Fire Pleroma
+436,High Fire Pleroma
+437,Ice Pleroma
+438,High Ice Pleroma
+439,Elec Pleroma
+440,High Elec Pleroma
+441,Force Pleroma
+442,High Force Pleroma
+443,Heal Pleroma
+444,High Heal Pleroma
+445,Endure
+446,Enduring Soul
+447,Counter
+448,Retaliate
+449,Ally Counter
+450,Ally Retaliate
+451,Life Aid
+452,Mana Aid
+453,Victory Cry
+454,Spring of Life
+455,Chakra Walk
+456,NONE
+457,NONE
+458,NONE
+459,NONE
+460,Self-Righteous Vow
+461,Life Bonus
+462,Life Gain
+463,Life Surge
+464,Mana Bonus
+465,Mana Gain
+466,Mana Surge
+467,Dark Pleroma
+468,High Dark Pleroma
+469,Light Pleroma
+470,High Light Pleroma
+471,Healing Knowhow
+472,NONE
+473,Repel Dark
+474,Drain Dark
+475,Attack Knowhow
+476,Repel Light
+477,Light Life Aid
+478,Light Mana Aid
+479,Speed Lesson
+480,Haste Lesson
+481,Awakening
+482,Hellish Mask
+483,Hard Worker
+484,Workaholic
+485,Beastly Reaction
+486,Draconic Reaction
+487,Bloody Glee
+488,Phys Pierce
+489,Gun Pierce
+490,Fire Pierce
+491,Ice Pierce
+492,Elec Pierce
+493,Force Pierce
+494,NONE
+495,NONE
+496,NONE
+497,NONE
+498,NONE
+499,NONE
+500,Almighty Pleroma

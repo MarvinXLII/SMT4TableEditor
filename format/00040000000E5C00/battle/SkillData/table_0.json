@@ -1,0 +1,15 @@
+{
+  "sheetname": "table_0",
+  "headers": {
+    "0x20": "ID",
+    "0x22": "MP",
+    "0x2c": "Power",
+    "0x2e": "Acc"
+  },
+  "types": {
+    "0x00": "string_0x20",
+    "0x20": "uint16",
+    "0x2c": "uint16",
+    "0x2e": "uint8"
+  }
+}

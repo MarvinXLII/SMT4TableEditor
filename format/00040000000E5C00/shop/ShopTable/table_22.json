@@ -1,0 +1,9 @@
+{
+  "sheetname": "Ahsura-kai - Toyosu",
+  "headers": {
+    "0x00": "Item"
+  },
+  "types": {
+    "0x00": "uint16"
+  }
+}

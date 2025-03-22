@@ -1,0 +1,10 @@
+{
+  "sheetname": "table_4",
+  "headers": {
+    "0x20": "ID"
+  },
+  "types": {
+    "0x00": "string_0x20",
+    "0x20": "uint16"
+  }
+}

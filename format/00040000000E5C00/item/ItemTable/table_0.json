@@ -1,0 +1,13 @@
+{
+  "sheetname": "table_0",
+  "headers": {
+    "0x00": "Item",
+    "0x20": "Item",
+    "0x50": "ID"
+  },
+  "types": {
+    "0x00": "string_0x20",
+    "0x20": "string_0x30",
+    "0x50": "uint16"
+  }
+}

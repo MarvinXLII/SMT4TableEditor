@@ -1,0 +1,20 @@
+{
+  "sheetname": "table_1",
+  "headers": {
+    "0x00": "Item",
+    "0x20": "Item",
+    "0x60": "ID",
+    "0x71": "Limit",
+    "0x78": "Buy",
+    "0x7c": "Sell"
+  },
+  "types": {
+    "0x00": "string_0x20",
+    "0x20": "string_0x30",
+    "0x50": "string_0x10",
+    "0x60": "uint16",
+    "0x71": "uint8",
+    "0x78": "uint32",
+    "0x7c": "uint32"
+  }
+}
