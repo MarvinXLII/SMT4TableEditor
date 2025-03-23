@@ -21,7 +21,7 @@ class FBIN(Archive):
 
     def _split_tables(self):
         f = File(self._vanilla)
-        assert(f.read_string(size=4) == 'FBIN')
+        assert(f.read_string(4) == 'FBIN')
 
         num_tables = f.read_uint32()
         start_addr = f.read_uint32()

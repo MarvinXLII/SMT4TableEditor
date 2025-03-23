@@ -47,11 +47,7 @@ class Byte:
         return struct.pack("<d", value)
 
     @staticmethod
-    def get_string_utf8(string):
-        return string.encode() + b'\x00'
-
-    @staticmethod
-    def get_string(string, nbytes=4, utf=None):
+    def get_string(string, nbytes):
         encoded = bytearray()
         for si in string:
             ei = si.encode('utf8')
@@ -62,17 +58,9 @@ class Byte:
         encoded += bytearray([0] * (nbytes - len(encoded)))
         return encoded
 
-    @staticmethod
-    def get_sha(sha):
-        return sha.encode() + b'\x00'
-
 
 class File(Byte):
     def __init__(self, data):
-        self.is_patched = False
-        self.set_data(data)
-
-    def set_data(self, data):
         self.vanilla = bytearray(data)
         self.size = len(self.vanilla)
         self.data = io.BytesIO(self.vanilla);
@@ -80,29 +68,18 @@ class File(Byte):
     def get_data(self):
         return bytearray(self.data.getbuffer())
 
-    def patch_data(self, patch):
-        data = bsdiff4.patch(bytes(self.vanilla), bytes(patch))
-        self.set_data(data)
-        self.is_patched = True
-
-    def get_patch(self):
-        mod = bytes(get_data())
-        return bsdiff4.diff(bytes(self.vanilla), mod)
-
     def tell(self):
         return self.data.tell()
 
     def seek(self, offset, x=0):
         self.data.seek(offset, x)
-        
+
     def read_bytes(self, size=None):
         if size is None:
             return self.data.read()
         return self.data.read(size)
 
-    def read_string(self, size=None):
-        if size is None:
-            size = self.read_int32()
+    def read_string(self, size):
         s = self.read_bytes(size)
         try:
             return s.rstrip(b'\x00').decode('utf8')
@@ -119,7 +96,7 @@ class File(Byte):
                 si = s[i:i+1].decode('utf8')
                 i += 1
             decoded.append(si)
-            
+
         return ''.join(decoded)
 
     def read_int(self, size, signed):
@@ -154,8 +131,3 @@ class File(Byte):
 
     def read_double(self):
         return struct.unpack("<d", self.data.read(8))[0]
-
-    def read_sha(self):
-        sha = self.read_bytes(0x20).decode()
-        assert self.read_uint8() == 0
-        return sha

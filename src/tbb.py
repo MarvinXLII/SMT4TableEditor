@@ -20,7 +20,7 @@ class TBB(Archive):
     def _split_tables(self):
         f = File(self._vanilla)
 
-        assert(f.read_string(size=4) == 'TBCR')
+        assert(f.read_string(4) == 'TBCR')
         start_addr = f.read_uint32()
         num_tables = f.read_uint32()
         table_pointers = []

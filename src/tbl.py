@@ -5,11 +5,12 @@ class TBL:
     def __init__(self, data, index):
         self.data = File(data)
         self._index = index
-        assert(self.data.read_string(size=4) == 'TBL1')
+        assert(self.data.read_string(4) == 'TBL1')
         self.size = self.data.read_uint32()
         self.row_size = self.data.read_uint32()
         self.start_addr = self.data.read_uint32()
         assert(self.size % self.row_size == 0)
+
 
     @property
     def num_rows(self):
