@@ -90,7 +90,8 @@ class Formatter:
                     n = int(n)
                 except:
                     n = int(n, 0x10)
-                return Byte.get_string(value, n)
+                # ensure value is a string (e.g. replacing script with '0' can be read as an integer!)
+                return Byte.get_string(str(value), n)
             
             match self._data[offset]:
                 case Format.UINT8:
